@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by:Kayyuru Tharani
-Registeration Number :212221040080
+Developed by:Narra Nanditha
+Registeration Number :212221040111
 
 */
 package com.example.gui;
